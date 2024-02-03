@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Pal
-- 👀 I’m interested in ML, MLOps, DevOps and Cloud.
-- 🌱 I’m currently learning Cloud Computiing
+- 👀 I’m interested in ML, DL, GenAI, MLOps, DevOps and Cloud.
 - 💞️ I’m looking to collaborate on projects usefull to others.
 
 <!---
